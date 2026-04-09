@@ -1,2 +1,2 @@
 # rocnikovy_projekt
-Svůj ročníkový projekt budu dělat ve WPF
+Svůj ročníkový projekt budu dělat jako Web
