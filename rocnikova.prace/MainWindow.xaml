@@ -1,0 +1,316 @@
+﻿<Window x:Class="rocnikova.prace.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+        Width="800"
+        Height="450">
+
+    <Viewbox Stretch="Uniform">
+
+        <Grid Width="800" Height="450">
+            <Grid Name="Menu" Visibility="Visible">
+                <Image Source="/zacatek.jpg" Stretch="Fill"/>
+                <Button HorizontalAlignment="Left" Margin="170,232,0,0" VerticalAlignment="Top" Height="85" Width="190" Opacity="0.01" Click="start"/>
+                <Button HorizontalAlignment="Left" Margin="418,232,0,0" VerticalAlignment="Top" Height="85" Width="285" Opacity="0.01" Click="konec"/>
+
+            </Grid>
+            <!--scena1-->
+            <Grid Name="Scena1" Visibility="Collapsed">
+                <Image Source="/pozadi.png" Stretch="Fill"/>
+
+                <Canvas>
+
+                    <Button Canvas.Left="422" Canvas.Top="234" Width="50" Height="40" Opacity="0.01" Click="btn_brusle_Click"/>
+                    <Button Canvas.Left="660" Canvas.Top="360" Width="49" Height="51" Opacity="0.01" Click="btn_hrnek_Click" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                    <Button Canvas.Left="719" Canvas.Top="150" Width="63" Height="136" Opacity="0.01" Click="btn_parek_Click" RenderTransformOrigin="0.5,0.5">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="18.146"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+                    </Button>
+                    <Button Canvas.Left="290" Canvas.Top="280" Width="51" Height="41" Opacity="0.01" Click="btn_kamen_Click"/>
+                    <Button Canvas.Left="420" Canvas.Top="353" Width="77" Height="30" Opacity="0.01" Click="btn_sroubovak_Click" RenderTransformOrigin="0.5,0.5">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="13.634"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+                    </Button>
+                    <Button Canvas.Left="194" Canvas.Top="188" Width="24" Height="14" Opacity="0.01" Click="btn_klic_Click" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Center" VerticalAlignment="Top">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="22.027"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+                    </Button>
+                    <Button Canvas.Left="168" Canvas.Top="360" Width="143" Height="21" Opacity="0.01" Click="btn_pacidlo_Click" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" VerticalAlignment="Top">
+                        <Button.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-22.525"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Button.RenderTransform>
+                    </Button>
+                    <Button Canvas.Left="336" Canvas.Top="159" Width="33" Height="43" Opacity="0.01" Click="btn_obraz_Click"/>
+
+                </Canvas>
+
+                <!-- TEXT BOX -->
+                <Rectangle HorizontalAlignment="Left"
+           Height="100"
+           Margin="22,42,0,308"
+           Width="166"
+           Fill="#7FAFA2A2"/>
+
+                <TextBlock Text="{Binding DialogText}"
+           HorizontalAlignment="Left"
+           Margin="22,42,0,308"
+           Width="165"
+           Height="100"
+           TextWrapping="Wrap"/>
+            </Grid>
+            <!--scena2-->
+            <Grid Name="Scena2" Visibility="Collapsed">
+                <Image Source="/pozadi-securityroom.png" Stretch="Fill"/>
+                <Button HorizontalAlignment="Left" Margin="379,142,0,0" VerticalAlignment="Top" Height="95" Width="95" RenderTransformOrigin="0.5,0.5" Opacity="0.01" Click="btn_click_heslo">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="1.767"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button HorizontalAlignment="Left" Margin="513,374,0,0" VerticalAlignment="Top" Height="19" Width="18" RenderTransformOrigin="0.5,0.5" Opacity="0.01" Click="btn_cislo2_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="18.255"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button HorizontalAlignment="Left" Margin="231,192,0,0" VerticalAlignment="Top" Height="11" Width="8" Opacity="0.01" Click="btn_cislo3_Click"/>
+                <Button HorizontalAlignment="Left" Margin="438,283,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="14" Width="18" Opacity="0.015" Click="btn_cislo4_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="22.716"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button HorizontalAlignment="Left" Margin="325,212,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="16" Width="14" Opacity="0.01" Click="btn_cislo1_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-26.326"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Rectangle HorizontalAlignment="Left"
+            Height="100"
+            Margin="22,42,0,308"
+            Width="166"
+            Fill="#7FAFA2A2"/>
+                <TextBlock Text="{Binding DialogText}"
+            HorizontalAlignment="Left"
+            Margin="22,42,0,308"
+            Width="165"
+            Height="100"
+            TextWrapping="Wrap"/>
+            </Grid>
+            <!--zadavac kodu-->
+            <Grid Name="Kod" Visibility="Collapsed">
+                <Image Source="/pozadi_kod.png" Stretch="Fill"/>
+                <Button Content ="Confirm" HorizontalAlignment="Left" Margin="327,269,0,0" VerticalAlignment="Top" Height="33" Width="153" Click="btn_kontrola_hesla_Click" Opacity="0.6"/>
+                <Rectangle HorizontalAlignment="Left"
+                Height="100"
+                Margin="22,42,0,308"
+                Width="166"
+                Fill="#7FAFA2A2"/>
+                <TextBlock
+                Text="{Binding DialogText}"
+                HorizontalAlignment="Left"
+                Margin="22,42,0,308"
+                Width="165"
+                Height="100"
+                TextWrapping="Wrap"/>
+                <Button Content="Zpět" HorizontalAlignment="Left" Margin="74,158,0,0" VerticalAlignment="Top" Height="34" Width="62" Opacity="0.505" FontSize="14" Click="btn_zpet_Click"/>
+                <TextBox x:Name="txtKod" HorizontalAlignment="Center" Margin="0,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="30" Opacity="0.3" FontFamily="Arial Black" TextAlignment="Center" FontSize="14"
+                VerticalContentAlignment="Center"/>
+            </Grid>
+            <!--laserova mistnost-->
+            <Grid Name="Lasery" Visibility="Collapsed">
+                <Image Stretch="Fill" Source="/pozadi-lasery.png"/>
+                <Rectangle HorizontalAlignment="Left"
+                Height="100"
+                Margin="22,42,0,308"
+                Width="166"
+                Fill="#7FAFA2A2"/>
+                <TextBlock
+                Text="{Binding DialogText}"
+                HorizontalAlignment="Left"
+                Margin="22,42,0,308"
+                Width="165"
+                Height="100"
+                TextWrapping="Wrap"/>
+                <Button Content="" HorizontalAlignment="Left" Margin="339,322,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="44" Opacity="0.01" Width="25" Click="btn_kniha_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="124.236"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button Content="" HorizontalAlignment="Left" Margin="432,367,0,0" VerticalAlignment="Top" Opacity="0.01" Width="38" RenderTransformOrigin="0.5,0.5" Click="btn_sprej_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="22.555"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button HorizontalAlignment="Left" Margin="239,394,0,0" VerticalAlignment="Top" Click="btn_baterka_Click" Opacity="0.01" Height="18" Width="53" RenderTransformOrigin="0.5,0.5">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-29.557"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button Content="" HorizontalAlignment="Left" Margin="498,402,0,0" VerticalAlignment="Top" Opacity="0.01" Click="btn_klic2_Click" Width="56" RenderTransformOrigin="0.5,0.5">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="20.36"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button Content="" HorizontalAlignment="Left" Margin="116,323,0,0" VerticalAlignment="Top" Height="106" Width="114" RenderTransformOrigin="0.5,0.5" Opacity="0.01" Click="btn_krabice_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.954"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button Content="" HorizontalAlignment="Left" Margin="218,246,0,0" VerticalAlignment="Top" Opacity="0.01" Width="45" RenderTransformOrigin="0.5,0.5" Click="btn_suplik_Click">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-20.21"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button Content="" HorizontalAlignment="Left" Margin="135,180,0,0" VerticalAlignment="Top" Height="36" Width="56" Opacity="0.01" Click="btn_televize_Click"/>
+                <Button Content="" HorizontalAlignment="Left" Margin="505,125,0,0" VerticalAlignment="Top" Height="69" Width="35" Opacity="0.015" Click="btn_ciselnik_Click"/>
+                <Button Content="" HorizontalAlignment="Left" Margin="610,307,0,0" VerticalAlignment="Top" Height="192" Width="190" Opacity="0.01" Click="btn_krabice2_Click"/>
+                <Button Content="" HorizontalAlignment="Left" Margin="693,92,0,0" VerticalAlignment="Top" Height="133" Width="79" Opacity="0.01" Click="btn_navod_Click"/>
+                <Button Content="" HorizontalAlignment="Left" Margin="222,351,0,0" VerticalAlignment="Top" Height="36" Click="btn_notes_Click" Width="49" Opacity="0.01" RenderTransformOrigin="0.5,0.5">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="23.91"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+            </Grid>
+            <!--kodovnik-->
+            <Grid Name="Kodovnik" Visibility="Collapsed">
+                <Image Stretch="Fill" Source="/kod-lasery.png"/>
+                <Rectangle HorizontalAlignment="Left"
+                  Height="100"
+                  Margin="22,42,0,308"
+                  Width="166"
+                  Fill="#7FAFA2A2"/>
+                <TextBlock
+                  Text="{Binding DialogText}"
+                  HorizontalAlignment="Left"
+                  Margin="22,42,0,308"
+                  Width="165"
+                  Height="100"
+                  TextWrapping="Wrap"/>
+                <Button Content="" HorizontalAlignment="Left" Margin="527,364,0,0" VerticalAlignment="Top" Width="48" Height="42" Opacity="0.01" Click="Správně"/>
+                <Button Content="Zpět" HorizontalAlignment="Left" Margin="80,148,0,0" VerticalAlignment="Top" Width="51" Opacity="0.4" Click="Zpatky_Click"/>
+                <TextBox x:Name="txtKod2" HorizontalAlignment="Left" VerticalContentAlignment="Center" TextAlignment="Center" Margin="432,137,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="116" RenderTransformOrigin="0.5,0.5" Height="33" Opacity="0.3">
+                    <TextBox.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-1.483"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </TextBox.RenderTransform>
+                </TextBox>
+            </Grid>
+            <!--Konec-->
+            <Grid Name="Konec" Visibility="Collapsed">
+                <Image Stretch="Fill" Source="/pozadi-brana.png"/>
+                <Rectangle HorizontalAlignment="Left"
+                  Height="100"
+                  Margin="22,42,0,308"
+                  Width="166"
+                  Fill="#7FAFA2A2"/>
+                <TextBlock
+                  Text="{Binding DialogText}"
+                  HorizontalAlignment="Left"
+                  Margin="22,42,0,308"
+                  Width="165"
+                  Height="100"
+                  TextWrapping="Wrap"/>
+                <Button HorizontalAlignment="Left" Margin="407,286,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="45" Height="17" Opacity="0.01" Click="klic_brana">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-53.074"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+                <Button HorizontalAlignment="Left" Margin="158,139,0,0" VerticalAlignment="Top" Height="267" Width="248" RenderTransformOrigin="0.5,0.5" Opacity="0.055" Click="brana">
+                    <Button.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform AngleX="1.115"/>
+                            <RotateTransform/>
+                            <TranslateTransform X="0.672"/>
+                        </TransformGroup>
+                    </Button.RenderTransform>
+                </Button>
+            </Grid>
+        </Grid>
+    </Viewbox>
+</Window>

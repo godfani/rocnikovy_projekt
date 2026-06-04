@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="kod-lasery.png" />
+    <None Remove="pozadi-brana.png" />
+    <None Remove="pozadi-lasery.png" />
+    <None Remove="pozadi-securityroom.png" />
+    <None Remove="pozadi.png" />
+    <None Remove="pozadi_kod.png" />
+    <None Remove="zacatek.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="kod-lasery.png" />
+    <Resource Include="pozadi-brana.png" />
+    <Resource Include="pozadi-lasery.png" />
+    <Resource Include="pozadi-securityroom.png" />
+    <Resource Include="pozadi.png" />
+    <Resource Include="pozadi_kod.png" />
+    <Resource Include="zacatek.jpg" />
+  </ItemGroup>
+
+</Project>

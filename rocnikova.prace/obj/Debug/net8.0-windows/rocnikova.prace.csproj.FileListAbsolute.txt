@@ -1,0 +1,57 @@
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\App.g.cs
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace_MarkupCompile.cache
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.exe
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.deps.json
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.runtimeconfig.json
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.dll
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.pdb
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\MainWindow.baml
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.g.resources
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.GeneratedMSBuildEditorConfig.editorconfig
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.AssemblyInfoInputs.cache
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.AssemblyInfo.cs
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.csproj.CoreCompileInputs.cache
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.dll
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\refint\rocnikova.prace.dll
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.pdb
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.genruntimeconfig.cache
+H:\PRG -2. ročník\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\ref\rocnikova.prace.dll
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.exe
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.deps.json
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.runtimeconfig.json
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.dll
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.pdb
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\App.g.cs
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace_MarkupCompile.cache
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.g.resources
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.AssemblyInfoInputs.cache
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.AssemblyInfo.cs
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.csproj.CoreCompileInputs.cache
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.dll
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\refint\rocnikova.prace.dll
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.pdb
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.genruntimeconfig.cache
+D:\Downloads\OneDrive_2026-05-08\rocnikova prg\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\ref\rocnikova.prace.dll
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.exe
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.deps.json
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.runtimeconfig.json
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.dll
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\bin\Debug\net8.0-windows\rocnikova.prace.pdb
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace_MarkupCompile.cache
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.g.resources
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.AssemblyInfoInputs.cache
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.AssemblyInfo.cs
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.csproj.CoreCompileInputs.cache
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.dll
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\refint\rocnikova.prace.dll
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.pdb
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\rocnikova.prace.genruntimeconfig.cache
+C:\Users\61840zurek\Downloads\rocnikova.prace\rocnikova.prace\rocnikova.prace\obj\Debug\net8.0-windows\ref\rocnikova.prace.dll

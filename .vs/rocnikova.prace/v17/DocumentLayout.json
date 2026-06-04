@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\61840zurek\\Downloads\\rocnikova.prace\\rocnikova.prace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B93616-4DB1-4406-BF8E-6D16F1710978}|rocnikova.prace\\rocnikova.prace.csproj|c:\\users\\61840zurek\\downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B93616-4DB1-4406-BF8E-6D16F1710978}|rocnikova.prace\\rocnikova.prace.csproj|solutionrelative:rocnikova.prace\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B93616-4DB1-4406-BF8E-6D16F1710978}|rocnikova.prace\\rocnikova.prace.csproj|c:\\users\\61840zurek\\downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B93616-4DB1-4406-BF8E-6D16F1710978}|rocnikova.prace\\rocnikova.prace.csproj|solutionrelative:rocnikova.prace\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B93616-4DB1-4406-BF8E-6D16F1710978}|rocnikova.prace\\rocnikova.prace.csproj|c:\\users\\61840zurek\\downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C2B93616-4DB1-4406-BF8E-6D16F1710978}|rocnikova.prace\\rocnikova.prace.csproj|solutionrelative:rocnikova.prace\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\61840zurek\\Downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\App.xaml",
+              "RelativeDocumentMoniker": "rocnikova.prace\\App.xaml",
+              "ToolTip": "C:\\Users\\61840zurek\\Downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\App.xaml",
+              "RelativeToolTip": "rocnikova.prace\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T11:47:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\61840zurek\\Downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "rocnikova.prace\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\61840zurek\\Downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\MainWindow.xaml",
+              "RelativeToolTip": "rocnikova.prace\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T10:52:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\61840zurek\\Downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "rocnikova.prace\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\61840zurek\\Downloads\\rocnikova.prace\\rocnikova.prace\\rocnikova.prace\\MainWindow.xaml.cs",
+              "RelativeToolTip": "rocnikova.prace\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAmwKcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:52:11.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
